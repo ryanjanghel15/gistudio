@@ -1,0 +1,25 @@
+.photocard{
+    margin:1% 5%;
+    text-align: center;
+  }
+  .card{
+    float:left;
+    width: 18rem;
+  }
+  .bix-2{
+    text-align: center;
+  }
+  @media only screen and (max-width: 600px)
+  {
+  .card{
+    float: top;
+    width: 18rem;
+  }
+  }
+  @media only screen and (max-width: 425px)
+  {
+    .card{
+    float: top;
+    width: 20rem;
+    }
+  }
