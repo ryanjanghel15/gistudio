@@ -1,12 +1,12 @@
 .poaup{
     width: 500px; 
     height: 500px;
-    
+
 }
 @media only screen and (max-width: 800px){
     .poaup{
-        height: 350px;
-        width: 350px;
+        height: 330px;
+        width: 330px;
         text-align: center;
     }    
 }
