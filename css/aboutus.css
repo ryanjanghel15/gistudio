@@ -7,6 +7,8 @@
     .poaup{
         height: 330px;
         width: 330px;
-        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }    
 }
