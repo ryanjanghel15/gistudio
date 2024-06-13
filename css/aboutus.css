@@ -1,7 +1,22 @@
+.txt{
+    text-anchor: middle;
+    font-weight: 400;
+}
+.flow{
+    float: right;
+}
+.containerph{
+    margin: 5% 5% 5% 5%;
+}
+.containerph2{
+    margin-bottom: 5%;    
+}
 .poaup{
     width: 500px; 
     height: 500px;
-
+}
+.stitle{
+    margin: 1% 1%;
 }
 @media only screen and (max-width: 800px){
     .poaup{
